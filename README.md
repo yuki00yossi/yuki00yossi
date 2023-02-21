@@ -1,11 +1,10 @@
 ### Hi there 👋
-[![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats]()
-
 <p align="left"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuki00yossi&langs_count=8&theme=synthwave&show_icons=true&layout=compact" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=yuki00yossi&theme=synthwave&count_private=true&show_icons=true" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuki00yossi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **yuki00yossi/yuki00yossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
