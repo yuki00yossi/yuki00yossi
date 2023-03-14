@@ -5,7 +5,7 @@
 </p>
 
 ### Languages of experience
-・PHP7.x
+・PHP7.x  
 ・PHP8.x  
 ・Python3.x  
 ・JavaScript
